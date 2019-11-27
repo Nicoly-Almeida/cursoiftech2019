@@ -1,4 +1,7 @@
+# DESCRIÇÃO:
+Cruso Git e Github para Iniciantes.
+
 # Aunos :
-nicoly
+  nicoly
 # Instrutor:
-Luiz Carlos
+  Luiz Carlos
