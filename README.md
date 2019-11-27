@@ -1,9 +1,4 @@
 # Aunos :
-
-<<<<<<< HEAD
-
+nicoly
 # Instrutor:
 Luiz Carlos
-=======
-nicoly
->>>>>>> add-aluno
